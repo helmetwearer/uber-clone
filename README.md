@@ -123,7 +123,7 @@ To get deployed application, please follow-:
 
 -JAVASCRIPT(hiding and revealing navbar on scroll)
 
--Bootstarap
+-Bootstrap
 
 -Python3.6
 
@@ -133,16 +133,5 @@ To get deployed application, please follow-:
 
 -PostgreSQL
 
-
-# Support and Contact
-
--Mobile number: (+254) 798731203
-
--Email Address: collo.kariss@gmail.com
-
--github-username: zecollokaris
-
 ## License
 The app is licensed by MIT.
-
-Collins Kariuki - MIT (c)2018 LICENSE
